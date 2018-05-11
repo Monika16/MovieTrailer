@@ -1,4 +1,4 @@
-# Movie WebSite
+# Movie Website
 Movie Website is a python project which displays some of my favourite movies and its details. 
 It has information like :
 - Movie Title
