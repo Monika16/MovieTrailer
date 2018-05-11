@@ -9,10 +9,10 @@ It has information like :
 ## Files in Project
 It has 3 python files :
 1. **media.py** : Contains Movie Class with attributes: 
-- Title
-- Story Line
-- Poster Image URL
-- Youtube Movie Trailer URL
+     - Title
+     - Story Line
+     - Poster Image URL
+     - Youtube Movie Trailer URL
 2. **entertainment_center.py** : Contains instances of the class Movie. The List of the instances are then passed to the `open_movies_page` function in fresh_tomatoes.py.
 3. **fresh_tomatoes.py** : Contains the Page Layout i.e. HTML page layout and the function `open_movies_page` which displayes the poster image of the movie with its title. Function to open the webbrowser to show the youtube trailer of the Movie is also present.
 
